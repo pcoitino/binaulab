@@ -719,3 +719,5 @@ function _0x36b0() {
     };
     return _0x36b0();
 }
+    return _0x36b0();
+}
